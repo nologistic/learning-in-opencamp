@@ -174,7 +174,7 @@
     },
     {
       "name": "hashmaps2.rs",
-      "result": false
+      "result": true
     },
     {
       "name": "hashmaps3.rs",
@@ -278,7 +278,7 @@
     },
     {
       "name": "iterators3.rs",
-      "result": false
+      "result": true
     },
     {
       "name": "iterators4.rs",
@@ -379,8 +379,8 @@
   ],
   "statistics": {
     "total_exercations": 94,
-    "total_succeeds": 92,
-    "total_failures": 2,
-    "total_time": 49
+    "total_succeeds": 94,
+    "total_failures": 0,
+    "total_time": 51
   }
 }
